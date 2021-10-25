@@ -1,6 +1,9 @@
 <img src="https://user-images.githubusercontent.com/74004409/138744651-645f07c9-67f2-4e47-b9da-c4107688d9be.gif" width="30" height="15" /> , I'm Aniketh!
 
-[Twitter](https://twitter.com/aniketh_88)
+[Twitter](https://twitter.com/aniketh_88) | 
+[Linkedin](https://www.linkedin.com/in/aniketh-paul-7728691bb/) |
+[Instagram](https://www.instagram.com/__.aniketh.__/) |
+[Medium](https://medium.com/@aniketh131)
 
 <img src="https://user-images.githubusercontent.com/74004409/138739272-90b79a36-5251-4957-af1d-57dac05bd2ab.jpg" width="300">
 
