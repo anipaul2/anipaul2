@@ -1,6 +1,6 @@
 # Hi 👋! My name is  Aniketh Paul
 ## 
-<img src="https://user-images.githubusercontent.com/74004409/138739272-90b79a36-5251-4957-af1d-57dac05bd2ab.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/74004409/138739272-90b79a36-5251-4957-af1d-57dac05bd2ab.jpg" width="300">
 
 
 <!--
