@@ -1,4 +1,6 @@
 ### Hi there friends 👋
+![Aniketh](https://user-images.githubusercontent.com/74004409/138739272-90b79a36-5251-4957-af1d-57dac05bd2ab.jpg)
+
 
 <!--
 **anipaul2/anipaul2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
