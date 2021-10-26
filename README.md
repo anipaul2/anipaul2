@@ -28,6 +28,14 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/github-readme-stats)
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+<!--END_SECTION:activity-->
+
 
 
 <!--
