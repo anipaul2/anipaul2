@@ -25,12 +25,10 @@
 ![Aniketh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anipaul2&theme=vision-friendly-dark&show_icons=true) 
 
 
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/github-readme-stats)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=Java-Basic)](https://github.com/anipaul2/github-readme-stats)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=DSA)](https://github.com/anipaul2/github-readme-stats)
 
 
