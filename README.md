@@ -24,13 +24,9 @@
 
 ![Aniketh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anipaul2&theme=vision-friendly-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anipaul2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ***BASIC WEBAPP***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/github-readme-stats)
-
 
 
 
