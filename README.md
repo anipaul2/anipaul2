@@ -5,8 +5,15 @@
 👨‍💻 I am currently pursuing my Bachelors in Computer science and Engineering from [Chandigarh University](https://www.cuchd.in/).
 
 ⚡ I am passionate about Artificial Inteliigence, Machine Learning and Blockchain. I embrace and adapt quickly to new responsibilities,
-    and am enthusiastic to gain new knowledge, skills, and techniques.
-
+    and am enthusiastic to gain new knowledge, skills, and techniques. 
+    
+    
+ ***SOME OF MY RECENT BLOGS***
+ 
+ <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://aniketh88.hashnode.dev/oop">Object-Oriented-Programming🔥</a>
+ 
+ <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/26a1.png" width=20 height=20><a href="https://medium.com/@aniketh131/why-does-blockchain-matter-def4d3de3795">Blockchain</a>
+ 
 
 ***SOCIALS*** 🧒
 
