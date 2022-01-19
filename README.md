@@ -27,7 +27,6 @@
 [<img src="https://user-images.githubusercontent.com/74004409/138851160-124cc006-bcd8-4390-b660-96b6d6b32417.png" width="50">](https://medium.com/@aniketh131)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aniketh131)
 
-<img src="https://user-images.githubusercontent.com/74004409/138739272-90b79a36-5251-4957-af1d-57dac05bd2ab.jpg" width="250">
 
 🚀 Languages 🔝
 
