@@ -10,6 +10,8 @@
     
  ***SOME OF MY RECENT BLOGS***
  
+ <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://aniketh88.hashnode.dev/learn-to-code-for-a-better-future">CodeisFuture</a>
+ 
  <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://dev.to/anipaul2/web3-whats-the-hype-all-about-18ia">Web3</a>
  
  <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://aniketh88.hashnode.dev/oop">Object-Oriented-Programming🔥</a>
