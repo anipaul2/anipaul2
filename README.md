@@ -39,7 +39,7 @@
 
 ***BASIC WEBAPP***
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/python-and-html.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/python-and-html/tree/main/Webapp)
 
 
 <!--START_SECTION:activity-->
