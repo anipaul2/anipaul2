@@ -7,6 +7,10 @@
 ⚡ I am passionate about Artificial Inteliigence, Machine Learning and Blockchain. I embrace and adapt quickly to new responsibilities,
     and am enthusiastic to gain new knowledge, skills, and techniques. 
     
+🚀 Languages 🔝
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
+    
     
  ***SOME OF MY RECENT BLOGS***
  
@@ -23,23 +27,31 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88)  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__.aniketh.__/) 
-[<img src="https://user-images.githubusercontent.com/74004409/138851160-124cc006-bcd8-4390-b660-96b6d6b32417.png" width="50">](https://medium.com/@aniketh131)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aniketh131)
 
 
-🚀 Languages 🔝
+---
+    
+    
+> [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anipaul1)](https://leetcode.com/Anipaul1)
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
 
-![Aniketh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anipaul2&theme=vision-friendly-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anipaul2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> ![Aniketh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anipaul2&hide=stars&include_all_commits=false&custom_title=GitHub%20Stats&theme=vision-friendly-dark&show_icons=true) 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anipaul2.anipaul2)
+
+
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anipaul2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+    
+---
 
 
 ***BASIC WEBAPP***
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/python-and-html/tree/main/Webapp)
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anipaul2.anipaul2)
 
 
 <!--START_SECTION:activity-->
