@@ -32,7 +32,7 @@
 ---
     
     
-> [![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anipaul1)](https://leetcode.com/Anipaul1)
+> ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Anipaul1&font=milonga)
 
 
 > ![Aniketh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anipaul2&hide=stars&include_all_commits=false&custom_title=GitHub%20Stats&theme=vision-friendly-dark&show_icons=true) 
