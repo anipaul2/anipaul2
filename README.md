@@ -13,20 +13,13 @@
     
     
  ***SOME OF MY RECENT BLOGS***
- 
- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://aniketh88.hashnode.dev/learn-to-code-for-a-better-future">CodeisFuture</a>
- 
- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://dev.to/anipaul2/web3-whats-the-hype-all-about-18ia">Web3</a>
- 
- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20> <a href="https://aniketh88.hashnode.dev/oop">Object-Oriented-Programming�</a>
- 
- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f449.png" width=20 height=20><a href="https://medium.com/@aniketh131/why-does-blockchain-matter-def4d3de3795">Blockchain</a>
+
+<a href="https://aniketh88.hashnode.dev/learn-to-code-for-a-better-future">CodeisFuture</a> || <a href="https://dev.to/anipaul2/web3-whats-the-hype-all-about-18ia">Web3</a> || <a href="https://aniketh88.hashnode.dev/oop">Object-Oriented-Programming</a> ||  <a href="https://medium.com/@aniketh131/why-does-blockchain-matter-def4d3de3795">Blockchain</a>
  
 
 ***SOCIALS*** 🧒
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88)  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/) 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/) 
 
 
 ---
@@ -43,13 +36,6 @@
     
     
 ---
-
-
-***BASIC WEBAPP***
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anipaul2&repo=python-and-html)](https://github.com/anipaul2/python-and-html/tree/main/Webapp)
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anipaul2.anipaul2)
 
