@@ -11,16 +11,12 @@
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
     
-    
- ***SOME OF MY RECENT BLOGS***
 
-<a href="https://aniketh88.hashnode.dev/learn-to-code-for-a-better-future">CodeisFuture</a> || <a href="https://dev.to/anipaul2/web3-whats-the-hype-all-about-18ia">Web3</a> || <a href="https://aniketh88.hashnode.dev/oop">Object-Oriented-Programming</a> ||  <a href="https://medium.com/@aniketh131/why-does-blockchain-matter-def4d3de3795">Blockchain</a>
- 
 
 ***SOCIALS*** 🧒
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/) 
-
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/)</br>
+<a href="https://hashnode.com/@Anipl1">***Blogs***</a>
 
 ---
     
