@@ -16,7 +16,11 @@
 ***SOCIALS*** 🧒
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40aniketh_88)](https://twitter.com/aniketh_88) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketh-paul-7728691bb/)</br>
-<a href="https://hashnode.com/@Anipl1">***Blogs***</a>
+
+***Blogs***
+1. [Airdrops](https://itsblockchain.com/here-are-5-upcoming-projects-that-may-airdrop-soon/)
+2. [Atom Tokenomics](https://itsblockchain.com/cosmos-atom-2-0-tokenomics-changes-bullish/)
+3. [Ethereum Rollups](https://itsblockchain.com/a-dummys-guide-to-ethereum-rollups/)
 
 ---
     
