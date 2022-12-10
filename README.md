@@ -2,7 +2,7 @@
 
 ***I'm Aniketh!***
 
-👨‍💻 I am currently pursuing my Bachelors in Computer science and Engineering from [Chandigarh University](https://www.cuchd.in/).
+👨‍💻 I love everything about Code, Crypto, and Communities.
 
 ⚡ I am passionate about Artificial Inteliigence, Machine Learning and Blockchain. I embrace and adapt quickly to new responsibilities,
     and am enthusiastic to gain new knowledge, skills, and techniques. 
